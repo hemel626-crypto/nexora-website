@@ -1,36 +1,11 @@
-# NEXORA — Free Website Package
+# NEXORA Natural Emotional Website
 
-A responsive static brand + product-enquiry website for NEXORA Mini Energy Bar.
+## Upload to GitHub Pages
+1. Download and extract this ZIP.
+2. Open the `nexora-website` repository on GitHub.
+3. Upload/replace `index.html`, `assets/style.css`, `assets/script.js`, `assets/favicon.svg`, and the hero image inside `assets/`.
+4. Keep the `assets` folder and its files in the repository root structure.
+5. Commit changes to the `main` branch.
+6. In Settings > Pages, use `Deploy from a branch`, `main`, and `/(root)`.
 
-## Preview locally
-Open `index.html` in Chrome, Edge, Firefox or Safari. No build tools or paid software required.
-
-## Free publishing with GitHub Pages
-1. Create a free account at https://github.com if you do not already have one.
-2. Create a new **public** repository named `nexora-website`.
-3. Upload all files and folders in this package (keep the `assets` folder).
-4. In the repository, open **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Choose branch `main` and folder `/ (root)`, then Save.
-7. GitHub will provide a free address similar to `https://YOUR-USERNAME.github.io/nexora-website/`.
-
-GitHub may take a few minutes to publish. This uses a free GitHub Pages address; a custom `.com` or `.com.bd` domain costs money and is not included.
-
-## Current functionality
-- Responsive mobile/desktop landing page
-- Brand story and product catalogue placeholders
-- FAQ section
-- Enquiry buttons and Facebook contact link
-- Basic SEO metadata and favicon
-- No paid libraries or build process
-
-## Important before accepting orders
-This is a static front-end website, not a live payment or inventory system. Do not enter customer payment details here. To enable real checkout, first confirm product data, prices, delivery terms, payment provider and a secure backend. Product package artwork is illustrative, not a photo of the actual product.
-
-## Information still needed from the brand owner
-- Confirmed product names and pack sizes
-- Approved product photos
-- Ingredients and nutrition panel (exactly as on packaging)
-- Prices, stock and delivery coverage/fees
-- Official WhatsApp and Instagram URLs
-- Return/refund and privacy policy
+The schoolchildren hero image and product pack illustration are concept visuals, not verified product photography. Replace them with approved real product photos when available. No ingredients, nutritional claims, price, or certification have been invented.
